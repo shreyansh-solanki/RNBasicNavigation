@@ -1,8 +1,17 @@
+# About
+
+In this project, I have created a simple navigation app using React Native, where I have used the `react-navigation` library to navigate between different screens. The app has two screens, the `Home` screen and the `Details` screen. The `Home` screen has a products that navigates to the `Product Details` screen. The `Product Details` screen has a button that navigates back to the `Home` screen.
+
+# Screenshots
+
+![Home Screen](./screenshots/home.png)
+![Product Details Screen](./screenshots/product-details.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
